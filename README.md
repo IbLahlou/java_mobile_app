@@ -1,4 +1,4 @@
-# Java Mobile APp
+# Java Mobile APP
 
 ## Description
 
@@ -14,11 +14,10 @@ This is a mobile app built in Java using Android Studio . an which i can modifiy
 ## Requirements
 
 - Android 4.4 (KitKat) or later
-- Internet connection (for [specific features requiring internet access])
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/IbLahlou/your-repo.git`
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
